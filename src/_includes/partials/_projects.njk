@@ -8,17 +8,13 @@
         <p class="w-full py-4">
           {{ item.details }}
         </p>
-        <h5 class="font-semibold">ROLE</h5>
+        <h5 class="font-semibold">Description:</h5>
         <ul class="py-4 pr-2 pl-4">
           {% for role in item.role %}
             <li class="list-disc">{{ role }}</li>
           {% endfor %}
         </ul>
         <ul class="pr-2">
-          <li
-            class="inline-block px-3 py-1 mr-1 mt-1 font-medium text-xs rounded-lg border border-husky-400 dark:border-husky-600">
-            <span class="inline-block w-2 h-2 rounded-full mr-2 bg-green-500"></span>Status: {{ item.status }}
-          </li>
           {% for technologies in item.technologies %}
             <li
             class="inline-block px-3 py-1 mr-1 mt-1 font-medium text-xs rounded-lg border border-husky-400 dark:border-husky-600">
