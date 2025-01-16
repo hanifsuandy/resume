@@ -6,6 +6,7 @@ module.exports = function (eleventyConfig) {
   });
 
   return {
+    pathPrefix: "/resume",
     dir: {
       input: "src",
       data: "_data",
