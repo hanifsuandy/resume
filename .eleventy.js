@@ -6,7 +6,8 @@ module.exports = function (eleventyConfig) {
   });
 
   return {
-    pathPrefix: "/resume",
+    pathPrefix: "/resume/",
+    templateFormats: ["njk", "html", "md", "11ty.js"],
     dir: {
       input: "src",
       data: "_data",
