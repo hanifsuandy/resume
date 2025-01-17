@@ -47,7 +47,7 @@
       ]
     },
     {
-      "type": "front-end (language/tools)",
+      "type": "front-end",
       "tools": [
         {
           "language": "HTML",
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "type": "Back-end (Languages/Tools)",
+      "type": "Back-end",
       "tools": [
         {
           "language": "NodeJS",
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "type": "DevOps (Languages/Tools)",
+      "type": "DevOps",
       "tools": [
         {
           "language": "Docker",
