@@ -1125,7 +1125,7 @@ video {
 @media (prefers-color-scheme: dark) {
   .work-entry.current .dot {
     --tw-bg-opacity: 1;
-    background-color: rgb(224 120 0 / var(--tw-bg-opacity));
+    background-color: rgb(255 245 235 / var(--tw-bg-opacity));
   }
 }
 
@@ -1311,6 +1311,11 @@ video {
   .dark\:bg-husky-950 {
     --tw-bg-opacity: 1;
     background-color: rgb(179 95 0 / var(--tw-bg-opacity));
+  }
+
+  .dark\:bg-husky-800 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(224 120 0 / var(--tw-bg-opacity));
   }
 
   .dark\:text-husky-50 {
