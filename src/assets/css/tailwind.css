@@ -15,7 +15,7 @@
 }
 
 .work-entry.current .dot {
-  @apply bg-husky-800 dark:bg-husky-800;
+  @apply bg-husky-800 dark:bg-husky-50;
 }
 
 .work-entry:nth-child(odd) {
