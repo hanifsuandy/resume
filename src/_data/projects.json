@@ -1,27 +1,27 @@
 [
   {
-    "industry": "Smart Home",
-    "details": "Personal project to automate my home.",
-    "role": [
-      "Built a smart home by deploying an open-source smart home automation software, Home Assistant.",
-      "Installed smart devices such as smart switches, smart plugs, smart lights, smart speakers, smart doorbell, motion sensors, presence sensors, light sensors and door sensors.",
-      "Configured and deployed the smart devices using wireless protocols such as Zigbee, Wi-Fi and Bluetooth.",
-      "Created several automations for a smart home experience.",
-      "Currently experimenting with a local voice assistant for the home.",
-      "Constantly adding more devices and updating existing ones."
-    ],
-    "technologies": ["Home Assistant Software", "Zigbee", "Wi-Fi", "Bluetooth"]
-  },
-  {
     "industry": "Home Lab",
     "details": "A home lab to host various services and applications to improve quality of life. Also contains virtual labs meant for testing and ethical hacking.",
     "role": [
-      "Deployed Promox VE on a Mini PC to spin up VMs and LXCs for hosting of servers and applicaitons.",
+      "Deployed Promox VE on a Mini PC to spin up VMs and LXCs for hosting of servers and applications.",
       "Made use of Docker to easily spin up lightweight containers of applications to improve quality of life.",
-      "Self-hosted applications provides a sense of control and security over personal data as compared to those hosted and controlled by a third-party.",
-      "Currently in the process of upgrading the home lab to increase memory and storage.",
+      "Self-hosted applications provide a sense of control and security over personal data as compared to those hosted and controlled by third-parties.",
+      "Currently in the process of upgrading the home lab hardware to increase memory and storage.",
       "Have plans to self-host open-source LLMs in the future as most Generative AI services online have limited free use."
     ],
-    "technologies": ["Proxmox", "Virtual Machines", "LXC (Linux Container)", "Docker", "Portainer", "Linux"]
+    "technologies": ["Proxmox", "Virtual Machines", "LXC (Linux Container)", "Docker", "Docker-compose", "Portainer", "Linux distributions"]
+  },
+  {
+    "industry": "Smart Home",
+    "details": "Personal project to automate my home.",
+    "role": [
+      "Deployed an open-source smart home automation software, Home Assistant, in my Home Lab to control and interface smart devices in the house.",
+      "Installed smart devices such as smart switches, smart plugs, smart lights, smart speakers, smart doorbell, motion sensors, presence sensors, light sensors and door sensors.",
+      "Configured and deployed the smart devices using wireless protocols such as Zigbee, Wi-Fi and Bluetooth.",
+      "Created several automations for a smart home experience.",
+      "Currently experimenting with a local voice assistant to replace Google Assistant / Amazon Alexa.",
+      "Constantly adding more devices and updating existing ones."
+    ],
+    "technologies": ["Home Assistant", "Zigbee2MQTT", "MQTT", "Zigbee", "Wi-Fi", "Bluetooth"]
   }
 ]
