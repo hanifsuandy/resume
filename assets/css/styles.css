@@ -690,6 +690,10 @@ video {
   display: inline-flex;
 }
 
+.hidden {
+  display: none;
+}
+
 .h-10 {
   height: 2.5rem;
 }
@@ -1146,6 +1150,18 @@ video {
   transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
 }
 
+.job-description {
+  text-align: left;
+}
+
+.job-description li {
+  padding-bottom: 10px;
+}
+
+.hidden {
+  display: none;
+}
+
 .before\:absolute::before {
   content: var(--tw-content);
   position: absolute;
@@ -1298,24 +1314,19 @@ video {
     border-top-color: rgb(255 160 51 / var(--tw-border-opacity));
   }
 
-  .dark\:bg-husky-50 {
-    --tw-bg-opacity: 1;
-    background-color: rgb(255 245 235 / var(--tw-bg-opacity));
-  }
-
   .dark\:bg-husky-500 {
     --tw-bg-opacity: 1;
     background-color: rgb(255 181 97 / var(--tw-bg-opacity));
   }
 
-  .dark\:bg-husky-950 {
-    --tw-bg-opacity: 1;
-    background-color: rgb(179 95 0 / var(--tw-bg-opacity));
-  }
-
   .dark\:bg-husky-800 {
     --tw-bg-opacity: 1;
     background-color: rgb(224 120 0 / var(--tw-bg-opacity));
+  }
+
+  .dark\:bg-husky-950 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(179 95 0 / var(--tw-bg-opacity));
   }
 
   .dark\:text-husky-50 {
