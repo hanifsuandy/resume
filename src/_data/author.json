@@ -15,6 +15,11 @@
       "url": "https://www.linkedin.com/in/hanif-suandy/"
     },
     {
+      "name": "Website",
+      "icon": "<svg stroke=\"currentColor\" fill=\"currentColor\" width=\"1.5em\" height=\"1.5em\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3.51211712,15 L8.17190229,15 C8.05949197,14.0523506 8,13.0444554 8,12 C8,10.9555446 8.05949197,9.94764942 8.17190229,9 L3.51211712,9 C3.18046266,9.93833678 3,10.9480937 3,12 C3,13.0519063 3.18046266,14.0616632 3.51211712,15 L3.51211712,15 Z M3.93551965,16 C5.12590433,18.3953444 7.35207678,20.1851177 10.0280093,20.783292 C9.24889451,19.7227751 8.65216136,18.0371362 8.31375067,16 L3.93551965,16 L3.93551965,16 Z M20.4878829,15 C20.8195373,14.0616632 21,13.0519063 21,12 C21,10.9480937 20.8195373,9.93833678 20.4878829,9 L15.8280977,9 C15.940508,9.94764942 16,10.9555446 16,12 C16,13.0444554 15.940508,14.0523506 15.8280977,15 L20.4878829,15 L20.4878829,15 Z M20.0644804,16 L15.6862493,16 C15.3478386,18.0371362 14.7511055,19.7227751 13.9719907,20.783292 C16.6479232,20.1851177 18.8740957,18.3953444 20.0644804,16 L20.0644804,16 Z M9.18440269,15 L14.8155973,15 C14.9340177,14.0623882 15,13.0528256 15,12 C15,10.9471744 14.9340177,9.93761183 14.8155973,9 L9.18440269,9 C9.06598229,9.93761183 9,10.9471744 9,12 C9,13.0528256 9.06598229,14.0623882 9.18440269,15 L9.18440269,15 Z M9.3349823,16 C9.85717082,18.9678295 10.9180729,21 12,21 C13.0819271,21 14.1428292,18.9678295 14.6650177,16 L9.3349823,16 L9.3349823,16 Z M3.93551965,8 L8.31375067,8 C8.65216136,5.96286383 9.24889451,4.27722486 10.0280093,3.21670804 C7.35207678,3.81488234 5.12590433,5.60465556 3.93551965,8 L3.93551965,8 Z M20.0644804,8 C18.8740957,5.60465556 16.6479232,3.81488234 13.9719907,3.21670804 C14.7511055,4.27722486 15.3478386,5.96286383 15.6862493,8 L20.0644804,8 L20.0644804,8 Z M9.3349823,8 L14.6650177,8 C14.1428292,5.03217048 13.0819271,3 12,3 C10.9180729,3 9.85717082,5.03217048 9.3349823,8 L9.3349823,8 Z M12,22 C6.4771525,22 2,17.5228475 2,12 C2,6.4771525 6.4771525,2 12,2 C17.5228475,2 22,6.4771525 22,12 C22,17.5228475 17.5228475,22 12,22 Z\"/></svg>",
+      "url": "https://www.karthax.ovh"
+    },
+    {
       "name": "Github",
       "icon": "<svg stroke=\"currentColor\" fill=\"currentColor\" stroke-width=\"0\" viewBox=\"0 0 496 512\" class=\"w-6 h-6\" height=\"1em\" width=\"1em\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z\"></path></svg>",
       "url": "https://github.com/hanifsuandy"
@@ -22,7 +27,7 @@
   ],
   "skills": [
     {
-      "type": "Cyber Skills",
+      "type": "Cybersecurity",
       "tools": [
         {
           "language": "Web Application Penetration Testing",
@@ -56,16 +61,16 @@
         {
           "language": "11ty",
           "icon": ""
+        },
+        {
+          "language": "Hugo",
+          "icon": ""
         }
       ]
     },
     {
       "type": "Back-end",
       "tools": [
-        {
-          "language": "NodeJS",
-          "icon": "<svg stroke=\"currentColor\" fill=\"currentColor\" stroke-width=\"0\" viewBox=\"0 0 448 512\" class=\"pl-1\" height=\"1em\" width=\"1em\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M224 508c-6.7 0-13.5-1.8-19.4-5.2l-61.7-36.5c-9.2-5.2-4.7-7-1.7-8 12.3-4.3 14.8-5.2 27.9-12.7 1.4-.8 3.2-.5 4.6.4l47.4 28.1c1.7 1 4.1 1 5.7 0l184.7-106.6c1.7-1 2.8-3 2.8-5V149.3c0-2.1-1.1-4-2.9-5.1L226.8 37.7c-1.7-1-4-1-5.7 0L36.6 144.3c-1.8 1-2.9 3-2.9 5.1v213.1c0 2 1.1 4 2.9 4.9l50.6 29.2c27.5 13.7 44.3-2.4 44.3-18.7V167.5c0-3 2.4-5.3 5.4-5.3h23.4c2.9 0 5.4 2.3 5.4 5.3V378c0 36.6-20 57.6-54.7 57.6-10.7 0-19.1 0-42.5-11.6l-48.4-27.9C8.1 389.2.7 376.3.7 362.4V149.3c0-13.8 7.4-26.8 19.4-33.7L204.6 9c11.7-6.6 27.2-6.6 38.8 0l184.7 106.7c12 6.9 19.4 19.8 19.4 33.7v213.1c0 13.8-7.4 26.7-19.4 33.7L243.4 502.8c-5.9 3.4-12.6 5.2-19.4 5.2zm149.1-210.1c0-39.9-27-50.5-83.7-58-57.4-7.6-63.2-11.5-63.2-24.9 0-11.1 4.9-25.9 47.4-25.9 37.9 0 51.9 8.2 57.7 33.8.5 2.4 2.7 4.2 5.2 4.2h24c1.5 0 2.9-.6 3.9-1.7s1.5-2.6 1.4-4.1c-3.7-44.1-33-64.6-92.2-64.6-52.7 0-84.1 22.2-84.1 59.5 0 40.4 31.3 51.6 81.8 56.6 60.5 5.9 65.2 14.8 65.2 26.7 0 20.6-16.6 29.4-55.5 29.4-48.9 0-59.6-12.3-63.2-36.6-.4-2.6-2.6-4.5-5.3-4.5h-23.9c-3 0-5.3 2.4-5.3 5.3 0 31.1 16.9 68.2 97.8 68.2 58.4-.1 92-23.2 92-63.4z\"></path></svg>"
-        },
         {
           "language": "Nginx",
           "icon": "<svg stroke=\"currentColor\" fill=\"currentColor\" stroke-width=\"0\" viewBox=\"0 0 512 512\" class=\"pl-1\" height=\"1em\" width=\"1em\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M480 160H32c-17.673 0-32-14.327-32-32V64c0-17.673 14.327-32 32-32h448c17.673 0 32 14.327 32 32v64c0 17.673-14.327 32-32 32zm-48-88c-13.255 0-24 10.745-24 24s10.745 24 24 24 24-10.745 24-24-10.745-24-24-24zm-64 0c-13.255 0-24 10.745-24 24s10.745 24 24 24 24-10.745 24-24-10.745-24-24-24zm112 248H32c-17.673 0-32-14.327-32-32v-64c0-17.673 14.327-32 32-32h448c17.673 0 32 14.327 32 32v64c0 17.673-14.327 32-32 32zm-48-88c-13.255 0-24 10.745-24 24s10.745 24 24 24 24-10.745 24-24-10.745-24-24-24zm-64 0c-13.255 0-24 10.745-24 24s10.745 24 24 24 24-10.745 24-24-10.745-24-24-24zm112 248H32c-17.673 0-32-14.327-32-32v-64c0-17.673 14.327-32 32-32h448c17.673 0 32 14.327 32 32v64c0 17.673-14.327 32-32 32zm-48-88c-13.255 0-24 10.745-24 24s10.745 24 24 24 24-10.745 24-24-10.745-24-24-24zm-64 0c-13.255 0-24 10.745-24 24s10.745 24 24 24 24-10.745 24-24-10.745-24-24-24z\"></path></svg>"
@@ -88,6 +93,10 @@
           "icon": "<svg stroke=\"currentColor\" fill=\"currentColor\" stroke-width=\"0\" viewBox=\"0 0 640 512\" class=\"pl-1\" height=\"1em\" width=\"1em\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M349.9 236.3h-66.1v-59.4h66.1v59.4zm0-204.3h-66.1v60.7h66.1V32zm78.2 144.8H362v59.4h66.1v-59.4zm-156.3-72.1h-66.1v60.1h66.1v-60.1zm78.1 0h-66.1v60.1h66.1v-60.1zm276.8 100c-14.4-9.7-47.6-13.2-73.1-8.4-3.3-24-16.7-44.9-41.1-63.7l-14-9.3-9.3 14c-18.4 27.8-23.4 73.6-3.7 103.8-8.7 4.7-25.8 11.1-48.4 10.7H2.4c-8.7 50.8 5.8 116.8 44 162.1 37.1 43.9 92.7 66.2 165.4 66.2 157.4 0 273.9-72.5 328.4-204.2 21.4.4 67.6.1 91.3-45.2 1.5-2.5 6.6-13.2 8.5-17.1l-13.3-8.9zm-511.1-27.9h-66v59.4h66.1v-59.4zm78.1 0h-66.1v59.4h66.1v-59.4zm78.1 0h-66.1v59.4h66.1v-59.4zm-78.1-72.1h-66.1v60.1h66.1v-60.1z\"></path></svg>"
         },
         {
+          "language": "Portainer",
+          "icon": ""
+        },
+        {
           "language": "Gitlab CI",
           "icon": "<svg stroke=\"currentColor\" fill=\"currentColor\" stroke-width=\"0\" viewBox=\"0 0 512 512\" class=\"pl-1\" height=\"1em\" width=\"1em\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M105.2 24.9c-3.1-8.9-15.7-8.9-18.9 0L29.8 199.7h132c-.1 0-56.6-174.8-56.6-174.8zM.9 287.7c-2.6 8 .3 16.9 7.1 22l247.9 184-226.2-294zm160.8-88l94.3 294 94.3-294zm349.4 88l-28.8-88-226.3 294 247.9-184c6.9-5.1 9.7-14 7.2-22zM425.7 24.9c-3.1-8.9-15.7-8.9-18.9 0l-56.6 174.8h132z\"></path></svg>"
         },
@@ -105,11 +114,7 @@
       "type": "Soft Skills",
       "tools": [
         {
-          "language": "Leadership",
-          "icon": "<svg stroke=\"currentColor\" fill=\"currentColor\" stroke-width=\"0\" viewBox=\"0 0 576 512\" class=\"pl-1\" height=\"1em\" width=\"1em\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M208 0c-29.9 0-54.7 20.5-61.8 48.2-.8 0-1.4-.2-2.2-.2-35.3 0-64 28.7-64 64 0 4.8.6 9.5 1.7 14C52.5 138 32 166.6 32 200c0 12.6 3.2 24.3 8.3 34.9C16.3 248.7 0 274.3 0 304c0 33.3 20.4 61.9 49.4 73.9-.9 4.6-1.4 9.3-1.4 14.1 0 39.8 32.2 72 72 72 4.1 0 8.1-.5 12-1.2 9.6 28.5 36.2 49.2 68 49.2 39.8 0 72-32.2 72-72V64c0-35.3-28.7-64-64-64zm368 304c0-29.7-16.3-55.3-40.3-69.1 5.2-10.6 8.3-22.3 8.3-34.9 0-33.4-20.5-62-49.7-74 1-4.5 1.7-9.2 1.7-14 0-35.3-28.7-64-64-64-.8 0-1.5.2-2.2.2C422.7 20.5 397.9 0 368 0c-35.3 0-64 28.6-64 64v376c0 39.8 32.2 72 72 72 31.8 0 58.4-20.7 68-49.2 3.9.7 7.9 1.2 12 1.2 39.8 0 72-32.2 72-72 0-4.8-.5-9.5-1.4-14.1 29-12 49.4-40.6 49.4-73.9z\"></path></svg>"
-        },
-        {
-          "language": "Team Management",
+          "language": "Team Player",
           "icon": "<svg stroke=\"currentColor\" fill=\"currentColor\" stroke-width=\"0\" viewBox=\"0 0 640 512\" class=\"pl-1\" height=\"1em\" width=\"1em\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M192 256c61.9 0 112-50.1 112-112S253.9 32 192 32 80 82.1 80 144s50.1 112 112 112zm76.8 32h-8.3c-20.8 10-43.9 16-68.5 16s-47.6-6-68.5-16h-8.3C51.6 288 0 339.6 0 403.2V432c0 26.5 21.5 48 48 48h288c26.5 0 48-21.5 48-48v-28.8c0-63.6-51.6-115.2-115.2-115.2zM480 256c53 0 96-43 96-96s-43-96-96-96-96 43-96 96 43 96 96 96zm48 32h-3.8c-13.9 4.8-28.6 8-44.2 8s-30.3-3.2-44.2-8H432c-20.4 0-39.2 5.9-55.7 15.4 24.4 26.3 39.7 61.2 39.7 99.8v38.4c0 2.2-.5 4.3-.6 6.4H592c26.5 0 48-21.5 48-48 0-61.9-50.1-112-112-112z\"></path></svg>"
         },
         {
@@ -127,6 +132,16 @@
     {
       "companyName": "Deloitte Singapore",
       "title": "Consultant (Cyber Risk)",
+      "jd": [
+        "Perform Network and Web Application Penetration Testing.",
+        "Perform Source Code Review.",
+        "Conducted engagements in public sectors such as NEA, MOH, public hospitals, etc.",
+        "Took part in kick-off meetings to cover the scope of engagements.",
+        "Prepared tools required for on-site engagements.",
+        "Prepared and used tools such as Kali Linux, Burp Suite, ZAP, Nessus Vulnerability Scanner, PentestBox, Metasploit, Fortify Static Code Analyzer.",
+        "Prepared detailed reports for clients with executive summary as well as technical write up.",
+        "Worked with stakeholders to remediate findings based on recommendations provided and provided further support in the case where more was required other than the provided recommendations."
+      ],
       "time_start": "Jul 2022",
       "time_end": "Present",
       "link": "https://www2.deloitte.com/sg/en/footerlinks/office-locator/singapore/deloitte-touche-llp.html",
@@ -135,6 +150,12 @@
     {
       "companyName": "Xtremax Pte Ltd",
       "title": "Security Consultant",
+      "jd": [
+        "Supported Security Operations for a web hosting project.",
+        "Performed evaluation of new patches and software updates daily.",
+        "Performed VAPT of hosted web applications on an ad-hoc basis.",
+        "Performed VA of the network infrastructure and its web applications on a quarterly basis.",
+        "Audited logs and accounts for any suspicious/unauthorised access."],
       "time_start": "Mar 2021",
       "time_end": "Jul 2022",
       "link": "https://www.xtremax.com/"
@@ -142,6 +163,12 @@
     {
       "companyName": "Xtremax Pte Ltd",
       "title": "Associate Security Consultant",
+      "jd": [
+        "Audited accounts against the platform’s Access Control Matrix.",
+        "Reviewed audit logs to check for any suspicious/unauthorised access.",
+        "Performed VA and ensured all findings can be closed with the proper remediation or justification.",
+        "Worked closely with Engineers to investigate the root cause of incidents and provide workarounds as well as preventive measures."
+      ],
       "time_start": "Jun 2020",
       "time_end": "Mar 2021",
       "link": "https://www.xtremax.com/"
@@ -149,6 +176,12 @@
     {
       "companyName": "Xtremax Pte Ltd",
       "title": "Technical Support Engineer (Team Lead)",
+      "jd": [
+        "Managed a team of Technical Support Executives for a web hosting project.",
+        "Assisted team members with difficult and/or escalated tickets.",
+        "Performed first-level troubleshooting using AWS Services such as EC2, S3, CloudFront, etc before escalating to System Engineers.",
+        "Ensured the needs of the team are fulfilled including acting on feedback/suggestions to improve operations."
+      ],
       "time_start": "Jun 2019",
       "time_end": "Jun 2020",
       "link": "https://www.xtremax.com/"
@@ -156,6 +189,14 @@
     {
       "companyName": "Xtremax Pte Ltd",
       "title": "Technical Support Executive",
+      "jd": [
+        "Provided technical support for a project hosting over 500 websites for government agencies via phone calls and emails.",
+        "Followed standard operating procedures, and responded professionally.",
+        "Solved issues and requests raised by customers.",
+        "Ensured service requests were resolved timely to meet service KPIs.",
+        "Responded to up to 20 technical issues a day in a timely manner.",
+        "Communicated effectively between customers and the development team on escalated issues."
+      ],
       "time_start": "Apr 2018",
       "time_end": "Jun 2019",
       "link": "https://www.xtremax.com/"
@@ -163,13 +204,31 @@
     {
       "companyName": "NCS Group",
       "title": "Desktop Engineer",
+      "jd": [
+        "Provided IT support for a school of over 500 students and over 70 academic and non-academic staff during normal school operations as well as special occasions.",
+        "Managed over 300 devices weekly and troubleshooted an average of 6 devices daily.",
+        "Reported an average of 10 incident reports per week and resolved said incidents as per the required Service-Level Agreement (SLA).",
+        "Handled and documented the movement of over 50 devices weekly.",
+        "Cloned over 200 laptops for the upgrading of Operating System (OS) from Windows 7 32-bit to Windows 7 64-bit over a span of 2 months.",
+        "Cloned 5 laptops with the Windows 10 Operating System (OS) to test the compatibility of applications to be used on the new OS.",
+        "Wrote 10 command line scripts to automate a wide variety of software-related tasks.",
+        "Liaised with 2 vendors to assist in setting up ICT classes and configure devices prior to each class up to 2 times per week.",
+        "Liaised with 2 other vendors for maintenance support and reporting of faulty equipment to request for on-site repair or assistance.",
+        "Provided AV support during events and special occasions including the operation of the audio console and setting up of microphones."
+      ],
       "time_start": "Feb 2016",
       "time_end": "Aug 2017",
       "link": "https://www.ncs.co/en-sg/"
     },
     {
-      "companyName": "Desktop Support Engineer",
-      "title": "Jobster",
+      "companyName": "Jobster",
+      "title": "Desktop Support Engineer",
+      "jd": [
+        "Assisted major government agencies in upgrading the Operating Systems of over 50 laptops and assisted each staff to set up his/her laptop as it was configured before the upgrade.",
+        "Provided solutions to over 10 IT setbacks during the upgrades.",
+        "Worked with the in-house Desktop Engineers to speed up the upgrade by requesting for access to more Local Area Network (LAN) connections to enable the upgrade of up to 4 more laptops simultaneously.",
+        "Significantly reduced time-consuming task by writing a script to automatically install several network printers the OS upgrade of each laptop."
+      ],
       "time_start": "Oct 2015",
       "time_end": "Jan 2016"
     }

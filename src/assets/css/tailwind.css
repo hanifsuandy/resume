@@ -29,3 +29,15 @@
 .work-entry:nth-child(odd) .dot-bg {
   @apply left-0 -translate-x-2/4;
 }
+
+.job-description {
+  @apply text-left;
+}
+
+.job-description li {
+  padding-bottom: 10px;
+}
+
+.hidden {
+  display: none;
+}
