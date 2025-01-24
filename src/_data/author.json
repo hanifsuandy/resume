@@ -133,14 +133,13 @@
       "companyName": "Deloitte Singapore",
       "title": "Consultant (Cyber Risk)",
       "jd": [
-        "Perform Network and Web Application Penetration Testing.",
-        "Perform Source Code Review.",
-        "Conducted engagements in public sectors such as NEA, MOH, public hospitals, etc.",
-        "Took part in kick-off meetings to cover the scope of engagements.",
-        "Prepared tools required for on-site engagements.",
-        "Prepared and used tools such as Kali Linux, Burp Suite, ZAP, Nessus Vulnerability Scanner, PentestBox, Metasploit, Fortify Static Code Analyzer.",
-        "Prepared detailed reports for clients with executive summary as well as technical write up.",
-        "Worked with stakeholders to remediate findings based on recommendations provided and provided further support in the case where more was required other than the provided recommendations."
+        "Conducted Network and Web Application Penetration Testing, identifying vulnerabilities that enhanced overall security posture.",
+        "Conducted source code reviews, enhancing code quality and identifying potential vulnerabilities.",
+        "Conducted engagements in public sectors including NEA, MOH, and public hospitals, enhancing collaboration and improving service delivery.",
+        "Facilitated kick-off meetings to define the scope of engagements, ensuring all stakeholders had a clear understanding of project objectives.",
+        "Utilized tools including Kali Linux, Burp Suite, ZAP, Nessus Vulnerability Scanner, PentestBox, Metasploit, and Fortify Static Code Analyzer.",
+        "Compiled comprehensive reports for clients, featuring an executive summary and a technical analysis, enhancing client understanding and decision-making.",
+        "Collaborated with stakeholders to address findings based on provided recommendations, ensuring additional support was available when further assistance was necessary."
       ],
       "time_start": "Jul 2022",
       "time_end": "Present",
