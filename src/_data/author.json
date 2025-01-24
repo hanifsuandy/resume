@@ -44,6 +44,47 @@
       ]
     },
     {
+      "type": "Tools",
+      "tools": [
+        {
+          "language": "Kali Linux",
+          "icon": ""
+        },
+        {
+          "language": "Parrot OS",
+          "icon": ""
+        },
+        {
+          "language": "Burp Suite",
+          "icon": ""
+        },
+        {
+          "language": "OWASP ZAP",
+          "icon": ""
+        },
+        {
+          "language": "Nessus Vulnerability Scanner",
+          "icon": ""
+        },
+        {
+          "language": "PentestBox",
+          "icon": ""
+        },
+        {
+          "language": "Metasploit",
+          "icon": ""
+        },
+        {
+          "language": "Fortify Static Code Analyzer",
+          "icon": ""
+        },
+        {
+          "language": "tmux",
+          "icon": ""
+        }
+      ]
+    },
+    {
       "type": "Scripting",
       "tools": [
         {
